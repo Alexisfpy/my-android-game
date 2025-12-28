@@ -11,4 +11,4 @@ Utilizamos el efecto parallax para el movimiento del mapa. Los personajes puedan
 <br>
 ![Ghost bat](./app/src/main/res/drawable/enem1b.png) ![Ghost bat](./app/src/main/res/drawable/enem2b.png) ![Ghost bat](./app/src/main/res/drawable/enem3b.png) ![Ghost bat](./app/src/main/res/drawable/enem4b.png)
 <br>
-<img src="./app/src/main/res/drawable/enem1c.png" height="130" width="130">  <img src="./app/src/main/res/drawable/enem2c.png" height="130" width="130">  <img src="./app/src/main/res/drawable/enem3c.png" height="130" width="130">  <img src="./app/src/main/res/drawable/enem4c.png" height="130" width="130">
+<img src="./app/src/main/res/drawable/enem1c.png" height="130" width="130">  <img src="./app/src/main/res/drawable/enem2c.png" height="130" width="130">  <img src="./app/src/main/res/drawable/enem3c.png" height="130" width="120">  <img src="./app/src/main/res/drawable/enem4c.png" height="120" width="120">
