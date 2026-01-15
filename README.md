@@ -1,14 +1,49 @@
 # Juego creado en Android Studio: "Speed Ghost"
 ### Puedes probar el juego descargando el archivo APK: [SpeedGhost.apk](SpeedGhost.apk) 📥
-Utilizamos el efecto parallax para el movimiento del mapa. Los personajes puedan esquivar los enemigos.
-### Uno de los fondos principales
-![Mapa principal para dar efecto](./app/src/main/res/drawable/city.png)
 
-### Ghost (héroe del juego)
-![Héroe principal](./app/src/main/res/drawable/ghost1.png) ![Héroe principal](./app/src/main/res/drawable/ghosthalo1.png) ![Héroe principal](./app/src/main/res/drawable/ghosthalo2.png) ![Héroe principal](./app/src/main/res/drawable/ghosthalo3.png) ![Héroe principal](./app/src/main/res/drawable/ghosthalo4.png)
-### Enemigos del juego
-![Ghost horse](./app/src/main/res/drawable/enem1a.png) ![Ghost horse](./app/src/main/res/drawable/enem2a.png) ![Ghost horse](./app/src/main/res/drawable/enem3a.png) ![Ghost horse](./app/src/main/res/drawable/enem4a.png)
-<br>
-![Ghost bat](./app/src/main/res/drawable/enem1b.png) ![Ghost bat](./app/src/main/res/drawable/enem2b.png) ![Ghost bat](./app/src/main/res/drawable/enem3b.png) ![Ghost bat](./app/src/main/res/drawable/enem4b.png)
-<br>
-<img src="./app/src/main/res/drawable/enem1c.png" height="130" width="130">  <img src="./app/src/main/res/drawable/enem2c.png" height="130" width="130">  <img src="./app/src/main/res/drawable/enem3c.png" height="130" width="120">  <img src="./app/src/main/res/drawable/enem4c.png" height="120" width="120">
+## Características
+
+* **Efecto Parallax:** Movimiento fluido del fondo que crea una atmósfera 2D profunda e inmersiva.
+* **Mecánicas de Esquive:** Jugabilidad de ritmo rápido donde la precisión y el tiempo son fundamentales para evitar a los enemigos.
+* **Gráficos Dinámicos:** Sprites diseñados a medida tanto para el héroe como para los enemigos.
+* **Desarrollado con Android Studio:** Optimizado para ofrecer un alto rendimiento en dispositivos móviles.
+
+## Vista Previa del Juego
+
+### Entornos
+Uno de nuestros fondos principales que utiliza el efecto Parallax:
+![Fondo](./app/src/main/res/drawable/city.png)
+
+### Héroe del juego
+
+| Héroe | 
+| :---: | 
+| ![Ghost Hero](./app/src/main/res/drawable/ghost1.png) ![Ghost Hero](./app/src/main/res/drawable/ghosthalo1.png) ![Ghost Hero](./app/src/main/res/drawable/ghosthalo2.png) ![Ghost Hero](./app/src/main/res/drawable/ghosthalo3.png) ![Ghost Hero](./app/src/main/res/drawable/ghosthalo4.png)
+| **The Ghost** | 
+
+### Enemigos del Juego
+
+| Tipo de Enemigo | Sprites / Animaciones |
+| :--- | :--- |
+| **Ghost Horse** | <img src="./app/src/main/res/drawable/enem1a.png" height="100"> <img src="./app/src/main/res/drawable/enem2a.png" height="100"> <img src="./app/src/main/res/drawable/enem3a.png" height="100"> <img src="./app/src/main/res/drawable/enem4a.png" height="100"> |
+| **Ghost Bat** | <img src="./app/src/main/res/drawable/enem1b.png" height="100"> <img src="./app/src/main/res/drawable/enem2b.png" height="100"> <img src="./app/src/main/res/drawable/enem3b.png" height="100"> <img src="./app/src/main/res/drawable/enem4b.png" height="100"> |
+| **Ghost Special** | <img src="./app/src/main/res/drawable/enem1c.png" height="100"> <img src="./app/src/main/res/drawable/enem2c.png" height="100"> <img src="./app/src/main/res/drawable/enem3c.png" height="100"> <img src="./app/src/main/res/drawable/enem4c.png" height="100"> |
+
+## Cómo Jugar
+
+1. **Descarga** el archivo `SpeedGhost.apk` desde este repositorio.
+2. **Instálalo** en tu dispositivo Android (asegúrate de tener habilitada la opción de "Orígenes desconocidos").
+3. **Esquiva** a los enemigos que aparecen y ¡trata de obtener la puntuación más alta!
+
+## Construido Con
+
+* [Android Studio](https://developer.android.com/studio) - El IDE utilizado.
+* **Java/Kotlin** - Lógica y jugabilidad.
+* **Técnica de Parallax Scrolling** - Para la animación del fondo.
+
+## Autores
+
+* **Alexis Pérez** - [Alexisfpy](https://github.com/Alexisfpy)
+  
+
+
