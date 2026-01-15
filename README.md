@@ -1,5 +1,5 @@
 # Juego creado en Android Studio: "Speed Ghost"
-### Puedes probar el juego descargando el archivo APK: [Download the APK](SpeedGhost.apk) 📥
+### Puedes probar el juego descargando el archivo APK: [SpeedGhost.apk(SpeedGhost.apk) 📥
 Utilizamos el efecto parallax para el movimiento del mapa. Los personajes puedan esquivar los enemigos.
 ### Uno de los fondos principales
 ![Mapa principal para dar efecto](./app/src/main/res/drawable/city.png)
