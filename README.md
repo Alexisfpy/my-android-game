@@ -1,5 +1,8 @@
-# Juego creado en Android Studio: "Speed Ghost"
-### Puedes probar el juego descargando el archivo APK: [SpeedGhost.apk](SpeedGhost.apk) 📥
+# Speed Ghost 👻
+
+**Speed Ghost** es un juego arcade lleno de acción desarrollado para Android. Toma el control del héroe Ghost, navega a través de entornos sombríos y sobrevive el mayor tiempo posible esquivando enemigos implacables.
+
+[Descargar el APK](SpeedGhost.apk) 📥
 
 ## Características
 
