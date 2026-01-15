@@ -43,7 +43,7 @@ Uno de nuestros fondos principales que utiliza el efecto Parallax:
 
 ## Autores
 
-* **Alexis Pérez** - [Alexisfpy](https://github.com/Alexisfpy)
+* [Alexisfpy](https://github.com/Alexisfpy)
   
 
 
