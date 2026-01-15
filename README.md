@@ -2,7 +2,7 @@
 
 **Speed Ghost** es un juego arcade lleno de acción desarrollado para Android. Toma el control del héroe Ghost, navega a través de entornos sombríos y sobrevive el mayor tiempo posible esquivando enemigos implacables.
 
-[Descargar el APK](SpeedGhost.apk)
+[Descargar el APK](SpeedGhost.apk) 📥
 
 ## Características
 
